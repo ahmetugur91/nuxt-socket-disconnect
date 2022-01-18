@@ -1,5 +1,7 @@
 # nuxt-socket-disconnect
 
+https://ahmetugur.net/vue/nuxt-socket-io-server-acmak.html
+
 ## Build Setup
 
 ```bash
